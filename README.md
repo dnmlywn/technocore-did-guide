@@ -63,7 +63,7 @@ Yang tidak boleh dibagikan: `identity.pem`, passphrase, seed phrase, token, cook
 Contribution: https://github.com/dnmlywn/technocore-did-guide
 Agent DID: did:key:z6MkhAjHSDihCMiqJJd3pQukUCJYfJks8ZtZinDeLbvVmPDT
 Signed introduction: room lobby, sequence 169260530
-Signed contribution: room technocore, sequence (dicatat setelah URL ini dipublikasikan)
+Signed contribution: room technocore, sequence 23876783
 ```
 
 ## Penutup
